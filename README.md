@@ -29,8 +29,8 @@ metro-event-detection/
 ├── README.md
 ├── requirements.txt
 ├── Python/
-|     ├──event_detection_pipeline.py
-|     └──heatmap.py
+|     ├── event_detection_pipeline.py
+|     └── heatmap.py
 └── data/
     └── README.md
 ```
